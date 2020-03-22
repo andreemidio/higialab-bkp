@@ -1,1 +1,1 @@
-"#HigiaLab" 
+#HigiaLab 
