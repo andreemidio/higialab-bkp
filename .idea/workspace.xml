@@ -2,7 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45c65aae-7aac-401f-a908-f811cc71e8e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/001/0020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/00001/002/0020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/processing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/processing/cleaner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/processing/pre_processing_decode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/processing/pre_processing_encode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +75,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\OneDrive\Desktop\HigiaLab\image" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,5 +114,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584852228338" />
+    <state x="920" y="77" width="737" height="909" key="find.popup" timestamp="1584941668629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="920" y="77" width="737" height="909" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584941668629" />
   </component>
 </project>
